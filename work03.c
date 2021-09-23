@@ -31,6 +31,5 @@ int main() {
 
 	printf("Problem 6: %d\n", problem_6());
 
-	printf("\n");
 	return 0;
 }

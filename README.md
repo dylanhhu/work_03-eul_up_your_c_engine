@@ -3,3 +3,5 @@ Dylan Hu - Work 03: Eul Up Your C Engine
 
 ## Problems Solved (project euler's numbering)
 Problem 1
+
+Problem 6
